@@ -261,12 +261,11 @@
 }
 
 .portfolio2 {
-    display: block;
+    display: grid;
     grid-template-columns: repeat(2, 1fr); 
     gap: 20px; 
     padding: 20px;
-      column-count: 2;      
-    column-gap: 20px;    
+   
 }
 
 .project img {
@@ -283,7 +282,7 @@
 }
 
 .project {
-    break-inside: avoid;  
+
     margin-bottom: 20px;  
     position: relative;
     overflow: hidden;
@@ -338,6 +337,7 @@
     text-decoration: none;
     color: #696868;
 }
+
 
 
 
