@@ -289,13 +289,6 @@
     overflow: hidden;
 }
 
-.project img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 10px;
-}
-
 .overlay {
     position: absolute;
     bottom: 0;
@@ -318,7 +311,7 @@
     opacity: 1;
 }
 
-.overlay h3 {
+.overlay h4 {
     padding: 50px;
 }
 
@@ -334,3 +327,4 @@
     text-decoration: none;
     color: #696868;
 }
+
