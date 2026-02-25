@@ -319,6 +319,7 @@
 
 @media (max-width: 768px) {
     .overlay h4 {
+             margin: 0 auto;    
           font-size: 15px;
         line-height: 1.3;
         padding: 0 6px;
@@ -337,6 +338,7 @@
     text-decoration: none;
     color: #696868;
 }
+
 
 
 
